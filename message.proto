@@ -1,0 +1,8 @@
+#communication protocol
+
+message Hero_msg{
+	required string name = 1;
+	required string point_x = 2;
+	required string point_y = 3
+}
+
